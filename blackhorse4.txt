@@ -46,8 +46,6 @@ sunshine #阳光
 daytime #白天
 heavy #重的
 heavy rain #大雨
-the day before yesterday #前天
-the day after tomorrow #后天
 subject #科目，目标
 noon #中午
 earth #土地，地球
@@ -356,3 +354,4 @@ vase #花瓶
 clock #闹钟
 garden #花园
 all the time #全部时间 = 一直都
+
