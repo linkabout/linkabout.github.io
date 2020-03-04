@@ -48,3 +48,28 @@ heavy #重的
 heavy rain #大雨
 the day before yesterday #前天
 the day after tomorrow #后天
+subject #科目，目标
+noon #中午
+earth #土地，地球
+more than #比什么更多，超过。
+hundred #百
+ton #顿
+as long as #和什么一样长
+metre #米
+though #虽然
+gentle #温柔有礼的
+a kind of #一种。。。
+giant #巨人
+together #一起
+ticket #票
+October #十月
+date #日期
+as fat as #和什么一样胖
+actor #演员
+on foot #步行
+on time #准时，及时
+headmaster #校长
+office #办公室
+nobody #没人
+ink #墨水
+far #遥远
