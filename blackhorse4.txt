@@ -46,6 +46,8 @@ sunshine #阳光
 daytime #白天
 heavy #重的
 heavy rain #大雨
+the day before yesterday #前天
+the day after tomorrow #后天
 subject #科目，目标
 noon #中午
 earth #土地，地球
@@ -71,3 +73,9 @@ office #办公室
 nobody #没人
 ink #墨水
 far #遥远
+meet #遇见
+drop #扔掉
+shouldn't #= should not， 不应该。
+
+
+
