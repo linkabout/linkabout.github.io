@@ -41,4 +41,3 @@ let #让，let's go = 让我们出发把
 hard #困难，努力。
 it's hard for me #对我来说很困难
 easily #easy的副词形式
-church #教堂
