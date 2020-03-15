@@ -16,7 +16,6 @@ enjoy #享受，喜欢。
 wondered #原型wonder，想要知道，好奇。wonderful
 born #出生，I was born in Beijing
 except #除了。。。之外
-church #教堂
 decide #决定
 wishes #原型wish，祝愿，希望，愿望。Best Wishes
 Russia #俄罗斯
@@ -41,3 +40,12 @@ let #让，let's go = 让我们出发把
 hard #困难，努力。
 it's hard for me #对我来说很困难
 easily #easy的副词形式
+upset #失望，沮丧
+might #may的过去式，可能。
+appearance #外貌
+miss #丢失，想念
+sound #【n】声音【v】听起来
+magazine #杂志
+send #发送
+sent #发送的过去式
+send email #发送电子邮件
