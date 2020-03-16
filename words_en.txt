@@ -49,3 +49,10 @@ magazine #杂志
 send #发送
 sent #发送的过去式
 send email #发送电子邮件
+rise #上升，起床。
+healthy #健康的
+wealthy #富有的
+wise #明智的
+saying #谚语
+old English saying #古老的英国谚语
+exercise #练习
