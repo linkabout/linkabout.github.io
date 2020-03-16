@@ -1,12 +1,15 @@
+-#2-1
 theatre #剧场，戏院。
 seat #座位
 turned round #转身
 pay attention #注意
 I could not bear it #我无法忍受
 none of your business #不是你的事，不关你事儿
+rudely #粗鲁地
 private #私人的，私密的
 conversation #谈话
 
+-#2-2
 until #直到
 lunchtime #午餐时间
 thought #想，think的过去式
