@@ -1,58 +1,8 @@
-mild #温和的
-temperament #脾气
-mainly #主要的
-part #部分
-native #原生的，本地的
-patient #病人，有耐心的
-preparing #准备，原型：prepare
-whole #全部的，whole family = 全家
-full of #充满了。。。
-rest #休息，have a rest
-shade #影子
-goose #鹅
-each #每一个
-indeed #事实上的
-enjoy #享受，喜欢。
-wondered #原型wonder，想要知道，好奇。wonderful
-born #出生，I was born in Beijing
-except #除了。。。之外
-decide #决定
-wishes #原型wish，祝愿，希望，愿望。Best Wishes
-Russia #俄罗斯
-celebrated #celebrate = 庆祝
-hoped #原型是hope，希望
-mean #意思，what do you mean？
-bit #一点点，a bit of。。。
-stone #石头
-joke #玩笑
-mimic #魔方
-pretend to #假装做。。。
-his own head #他自己的头
-peel #剥皮，peel bananas = 给香蕉剥皮
-action #原型：act，动作。actor男演员
-show #【名】秀，展览 【动】展示，显示。
-is fooled #原型：fool傻瓜，这里当动词，be + 动词过去式 = 被动，所以意思是：被愚弄
-argue #争吵
-arguing #argue的动名词
-argument #argue的名词
-one of them#他们中的一个
-let #让，let's go = 让我们出发把
-hard #困难，努力。
-it's hard for me #对我来说很困难
-easily #easy的副词形式
-upset #失望，沮丧
-might #may的过去式，可能。
-appearance #外貌
-miss #丢失，想念
-sound #【n】声音【v】听起来
-magazine #杂志
-send #发送
-sent #发送的过去式
-send email #发送电子邮件
-rise #上升，起床。
-healthy #健康的
-wealthy #富有的
-wise #明智的
-saying #谚语
-old English saying #古老的英国谚语
-exercise #练习
+theatre #剧场，戏院。
+seat #座位
+turned round #转身
+pay attention #注意
+I could not bear it #我无法忍受
+none of your business #不是你的事，不关你事儿
+private #私人的，私密的
+conversation #谈话
