@@ -1,8 +1,9 @@
 -#2-1
 theatre #剧场，戏院。
-seat #座位
 turned round #转身
 pay attention #注意
+did not pay any attention #没注意
+pay no attention #没注意
 I could not bear it #我无法忍受
 none of your business #不是你的事，不关你事儿
 rudely #粗鲁地
@@ -21,7 +22,7 @@ dear me! #天哪
 -#2-3
 spoil #损坏
 sat #sit的过去式，坐
-taught #teach的过去式，教
+taught #teach的过去式，【v】教
 a few #一些
-lent #借给
+lent #lend的过去式，借给
 decision #【n】决定，【v】decide
