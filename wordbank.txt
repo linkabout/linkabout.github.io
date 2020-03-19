@@ -2,8 +2,6 @@
 theatre #剧场，戏院。
 turned round #转身
 pay attention #注意
-did not pay any attention #没注意
-pay no attention #没注意
 I could not bear it #我无法忍受
 none of your business #不是你的事，不关你事儿
 rudely #粗鲁地
@@ -11,10 +9,20 @@ private #私人的，私密的
 conversation #谈话
 
 -#2-2
-rang #ring的过去式，铃声响了
-dear me #天哪
+just then #就在这时
+repeated #重复
 
 -#2-3
 spoil #损坏
+Italy #意大利
+Italian #意大利的，意大利人，意大利语
+public #公共的
 taught #teach的过去式，【v】教
-lent #lend的过去式，借给
+lent #lend的过去式，借出
+a few words #几个单词
+a few lines #几行，几条线条
+understand #理解，懂
+passed #pass的过去式，过去
+send #发送
+decision #决定【n】
+single #单个，单身的。
