@@ -27,3 +27,14 @@ send #发送
 decision #决定【n】
 single #单个，单身的。
 
+-#2-4
+received #收到
+has been #已经去了。。。地方
+has never been #从没去过。。。地方
+months #月份【复数】
+engineer #工程师
+firm #公司 = company
+a great number of # = a lot of
+centre #中心
+abroad #国外
+
