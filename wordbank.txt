@@ -38,3 +38,9 @@ a great number of # = a lot of
 centre #中心
 abroad #国外
 
+-#2-5
+garage #车库，汽车修理部
+miles #英里
+pigeon #鸽子
+spare part #备件
+urgent #紧急的
